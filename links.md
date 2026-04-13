@@ -40,3 +40,4 @@
     12. **Neural Network Regressor** – Deep or shallow networks for complex patterns.  
         - `sklearn.neural_network.MLPRegressor`  
         (also PyTorch/TensorFlow models with custom wrappers)
+- LINK to prebuilt llamacpp `https://github.com/ggml-org/llama.cpp/releases`
