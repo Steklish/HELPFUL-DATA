@@ -41,3 +41,4 @@
         - `sklearn.neural_network.MLPRegressor`  
         (also PyTorch/TensorFlow models with custom wrappers)
 - LINK to prebuilt llamacpp `https://github.com/ggml-org/llama.cpp/releases`
+- Disable thinking for llamacpp model `llama-server.exe -m "D:\Downloads\gemma-4-E2B-it-Q4_K_M.gguf" --port 6767 -ngl -1 --chat-template-kwargs "{\"enable_thinking\":false}"`
